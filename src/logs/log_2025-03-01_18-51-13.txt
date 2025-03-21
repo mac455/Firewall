@@ -1,0 +1,1 @@
+Blocking IP: 52.44.32.133, packet rate: 41.89766084305356 - Action required to block manually

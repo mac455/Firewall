@@ -1,0 +1,2 @@
+Blocking IP: 172.217.169.3, packet rate: 84.93623156709558 - Action required to block manually
+Blocking IP: 142.250.180.4, packet rate: 207.84395489359858 - Action required to block manually
